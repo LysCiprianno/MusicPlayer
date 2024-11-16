@@ -37,4 +37,4 @@ O protótipo do Figma destaca-se pelo design cativante, cheio de elementos fofos
 
 ## 💖 Agradecimentos
  
-A todos os amantes da Hello Kitty, este projeto é para vocês! Espero que o **Play Music da Hello Kitty** traga alegria e música para o seu dia!
+A todos os amantes da Hello Kitty, este projeto é para vocês (e eu tambêm, rs)! Espero que o **Play Music da Hello Kitty** traga alegria e música para o seu dia!
